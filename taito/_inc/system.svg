@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg id="svg3518" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g>
-    <ellipse style="fill-opacity: 1; stroke-width: 1.591; stroke-opacity: 1; fill: rgb(255, 255, 255);" id="path4402" cx="519.627" cy="127.938" rx="80.373" ry="72.03"/>
-    <path style="fill-rule: evenodd; stroke-width: 1.41487px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; fill: rgb(255, 255, 255);" d="M 0 86.802 L 50.985 86.802 L 50.985 193.83 L 82.167 193.83 L 82.167 87.222 L 132.732 87.222 L 132.732 60.678 L 0 60.678 Z" id="path3537"/>
-    <path style="fill-rule: evenodd; stroke-width: 1.41487px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; fill: rgb(255, 255, 255);" d="M 306.123 86.802 L 357.108 86.802 L 357.108 193.83 L 388.29 193.83 L 388.29 87.222 L 438.855 87.222 L 438.855 60.678 L 306.123 60.678 Z" id="path3537-1"/>
-    <rect style="stroke-width: 1.41487; fill: rgb(255, 255, 255);" id="rect3554" width="31.602" height="131.046" x="265.041" y="61.521"/>
-    <ellipse style="fill-opacity: 1; stroke-width: 1.41487; stroke-opacity: 1; fill: rgb(255, 255, 255);" id="path3558" cx="284.955" cy="698.276" rx="24.651" ry="24.018" transform="matrix(1, 0, 0, 0.999999, -5.379181, -674.257129)"/>
-    <path style="fill-opacity: 1; fill-rule: evenodd; stroke-width: 1.41487px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; fill: rgb(255, 255, 255);" d="M 96.072 193.83 L 139.473 193.83 C 144.111 149.784 168.738 100.218 197.622 77.112 L 177.816 43.401 Z" id="path3560"/>
-    <path style="fill-opacity: 1; fill-rule: evenodd; stroke-width: 1.41487px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; fill: rgb(255, 255, 255);" d="M 174.024 192.987 C 172.47 152.76 183.609 110.001 204.786 89.331 L 261.249 192.987 Z" id="path3562"/>
-    <path style="fill-opacity: 1; fill-rule: evenodd; stroke-width: 1.41487px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; fill: rgb(255, 255, 255);" d="M 198.465 76.689 L 203.943 87.222 C 207.759 82.176 228.387 58.422 243.552 49.299 C 226.239 53.163 212.403 65.619 198.465 76.689 Z" id="path3564"/>
-    <ellipse style="fill-opacity: 1; stroke-width: 1.46703; stroke-opacity: 1; fill: rgb(20, 20, 20);" id="path4404" cx="519.165" cy="128.547" rx="47.649" ry="47.502"/>
-  </g>
+  <ellipse style="fill-opacity: 1; stroke-width: 1.591; stroke-opacity: 1; fill: rgb(255, 255, 255);" id="path4402" cx="623.143" cy="153.425" rx="96.385" ry="86.38"/>
+  <path style="fill-rule: evenodd; stroke-width: 1.41487px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; fill: rgb(255, 255, 255);" d="M 0 104.094 L 61.143 104.094 L 61.143 232.443 L 98.535 232.443 L 98.535 104.599 L 159.173 104.599 L 159.173 72.765 L 0 72.765 Z" id="path3537"/>
+  <path style="fill-rule: evenodd; stroke-width: 1.41487px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; fill: rgb(255, 255, 255);" d="M 367.108 104.094 L 428.25 104.094 L 428.25 232.443 L 465.643 232.443 L 465.643 104.599 L 526.28 104.599 L 526.28 72.765 L 367.108 72.765 Z" id="path3537-1"/>
+  <rect style="stroke-width: 1.41487; fill: rgb(255, 255, 255);" id="rect3554" width="37.898" height="157.151" x="317.84" y="73.776"/>
+  <ellipse style="fill-opacity: 1; stroke-width: 1.41487; stroke-opacity: 1; fill: rgb(255, 255, 255);" id="path3558" cx="341.722" cy="837.383" rx="29.561" ry="28.803" transform="matrix(1.000001, 0, 0, 1, -6.449999, -808.580017)"/>
+  <path style="fill-opacity: 1; fill-rule: evenodd; stroke-width: 1.41487px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; fill: rgb(255, 255, 255);" d="M 115.211 232.443 L 167.258 232.443 C 172.82 179.624 202.354 120.181 236.99 92.472 L 213.241 52.047 Z" id="path3560"/>
+  <path style="fill-opacity: 1; fill-rule: evenodd; stroke-width: 1.41487px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; fill: rgb(255, 255, 255);" d="M 208.693 231.432 C 206.829 183.191 220.185 131.913 245.581 107.126 L 313.292 231.432 Z" id="path3562"/>
+  <path style="fill-opacity: 1; fill-rule: evenodd; stroke-width: 1.41487px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; fill: rgb(255, 255, 255);" d="M 238.001 91.967 L 244.57 104.599 C 249.147 98.547 273.885 70.06 292.069 59.121 C 271.309 63.754 254.716 78.69 238.001 91.967 Z" id="path3564"/>
+  <ellipse style="fill-opacity: 1; stroke-width: 1.46703; stroke-opacity: 1; fill: rgb(20, 20, 20);" id="path4404" cx="622.591" cy="154.156" rx="57.143" ry="56.965"/>
 </svg>
